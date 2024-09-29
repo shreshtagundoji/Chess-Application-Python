@@ -1,9 +1,12 @@
 # Chess-Application-Python
 Chess application - Classic chess gameplay for two players using only pygame library
 
+
 Application 
 
 <img width="506" alt="image" src="https://github.com/user-attachments/assets/cc06a242-07e6-4777-931d-622d01389733">
+
+
 
 Board game
 
