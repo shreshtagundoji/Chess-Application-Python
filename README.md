@@ -4,7 +4,7 @@ Chess application - Classic chess gameplay for two players using only pygame lib
 Note: More updates on the app are in-progress
 1) Keeping a log of captured chess pieces
 2) Making a note of moves of each opponent
-3) Deploying the app using Flask and Docker
+3) Deploying the app using Flask
 
 
 Application 
